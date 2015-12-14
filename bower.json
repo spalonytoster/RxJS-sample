@@ -1,0 +1,23 @@
+{
+  "name": "test-reactive",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Maciej Posłuszny <xmachiei@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/spalonytoster/RxJS-sample",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "rxjs": "~4.0.7",
+    "skeleton": "~2.0.4"
+  }
+}
