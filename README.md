@@ -2,4 +2,6 @@
 
 ### How to run?
 
-Simply `live-server` inside cwd
+1. `cd` into directory
+2. `npm install` and `bower install`
+3. then just `live-server` and voila!
